@@ -1,0 +1,30 @@
+Noteworthy Fixes
+
+We fixed a total number of 76 core issues in 13.0.1, including:
+
+2 Security fixes  (http://www.adobe.com/go/apsb12-20)
+31 Crashing fixes
+18 fixes to 3D features
+15 fixes to Drawing and Graphics features
+Here are some specific fixes for the following bugs:
+
+3D: Reflection does not render when ray Traced
+3D: Ray Trace does not stop rendering
+3D: OpenGL widget stops working in Full Screen Windows
+Paths and Shapes: No way to select a Shape layer without path getting activated
+Paths and Shapes: Shapes do not constrain properly with non-square pixels
+Paths and Shapes: Unable to type on paths or shape layer
+Paths and Shapes: Vector Layers Copy/Paste attributes not actionable
+Paths and Shapes: No vector preview when transforming shape layers.
+Windows task bar location & image window problem
+Paint is offset with Grip Pen
+Actions: An action that copies, closes, and pastes to another open image gives error that it cannot paste Documents open as floating
+Actions: CS4/5 Actions that include “Use legacy” option are not using legacy in CS6
+Liquify: Mac 10.8: Corruption when using large images on a background layer
+Type: Extensis: Update All Text Layer becomes available after replace missing fonts
+Layer Comps: “Could not complete your request because the result would be too big” displayed with this CS5 sample file
+Group Styles: Some blending options not saved with file
+Video playback should use draft quality for faster playback
+After crop, Adjustment layers with dropdown menus become grayed out in properties panel
+Channels Panel: Thumbnails don’t update after moving layer
+Performance: Moving layers is slow compared to CS5 if layer palette is visible and thumbnails are showing
